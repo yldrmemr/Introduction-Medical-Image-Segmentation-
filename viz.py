@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May 16 15:05:43 2021
+@author: Dell-Yldrm
+This code block designed for mask applying in Image Segmentation 
 
-@author: Dell
+
 """
 
 
